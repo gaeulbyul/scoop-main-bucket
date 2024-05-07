@@ -11,7 +11,8 @@
     },
     "bin": [
         "ugrep.exe",
-        "ug.exe"
+        "ug.exe",
+        "ugrep-indexer.exe"
     ],
     "checkver": {
         "github": "https://github.com/Genivia/ugrep"
